@@ -43,7 +43,6 @@ D: console.log(student.Teacher.name);
 E: console.log(student.courseLoad[0]); 
 
 Question13:
-
 A: Output: '32'
 Explanation: When you use the + operator with a string and a number, JavaScript converts the number to a string and concatenates the two values.
 
@@ -70,7 +69,6 @@ H: Output: NaN
 Explanation:  use the - operator with a string and undefined, then undefined is converted to NaN, any calculatio follow with NaN return NaN
 
 Question 14:
-
 A: Output: true
 Explanation: When comparing a string and number using the > operator, JavaScript converts the string to a number. In this case, '2' is converted to 2, and 2 > 1 is true.
 
@@ -92,9 +90,17 @@ Explanation: The Boolean(2) expression returns true, but the === operator checks
 Question 15: 
 The == operator is known as the equality operator that do type coersion when compairing value and  === operator is known as the strict equality operator which doesn't perform coersion and compairing value. 
 
-Question 17:
+Question 17: 
+result: [2,4,6]
 
-Question 19:
+here since we are inputting the array [1,2,3] for the array and we are inputting callback for the function doSomething, which in the function will iterate through the array [1,2,3] and multiply 2 (because of doSomeghing funciton) to each index element and output it. So [2,4,6] for the result. 
+
+Question 19: 
+1
+4
+3
+2
+
 
 
 
