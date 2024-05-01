@@ -92,6 +92,9 @@ Explanation: The Boolean(2) expression returns true, but the === operator checks
 Question 15: 
 The == operator is known as the equality operator that do type coersion when compairing value and  === operator is known as the strict equality operator which doesn't perform coersion and compairing value. 
 
+Question 17:
+
+Question 19:
 
 
 
