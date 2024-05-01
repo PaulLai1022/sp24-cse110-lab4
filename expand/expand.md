@@ -1,0 +1,3 @@
+1. Asynchronous Nature: JavaScript's asynchronous operations can lead to a complicated code, which manage callbacks...etc especially for beginners. That will make code harder to understand and debug.
+2. Loose Typing: JavaScript's dynamic typing allows flexibility but could lead to potential unexpected bugs. Variables can hold different types, making it harder to predict outcomes, which can result in runtime errors during execution, making debugging more difficult.
+3. Web Platform: Developing for the web introduces challenges like browser compatibility, differences in browser platform. Writing code that works across browsers and tech devices requires lots of work by adding complexity. Security concern would requiure more attention. 
